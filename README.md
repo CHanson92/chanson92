@@ -6,5 +6,5 @@ I have a 2:1 Honours Degree in Mathematics, a Web & App Development Diploma from
 
 I have a thirst for knowledge, I'm passionate about everything I do and this shows in the quality of work I provide. I find and implement new ways to show results & to initiate new ideas.
 
-- 🔭 I’m currently working on improving Jesey to become the top student mental health app
-- 🌱 I’m currently learning TypeScript & Python
+- 🔭 I’m currently working on WhoCanFixMyCar.com improving their platform using TypeScript & Next.js
+- 🌱 I’m currently learning TypeScript, C# & Rust
