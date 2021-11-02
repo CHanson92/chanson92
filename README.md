@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an inquisitive Junior Software Engineer where I like to use my passion for technology to improve quality of life. You'll find me keeping up with the latest technology trends and in my spare time indulging my love of gaming, motorsport & martial arts.
+I'm an inquisitive developer where I like to use my passion for technology to improve quality of life. You'll find me keeping up with the latest technology trends and in my spare time indulging my love of gaming, motorsport & martial arts.
 
 I have a 2:1 Honours Degree in Mathematics, a Web & App Development Diploma from RED Academy and currently completing a Computing & IT degree at the Open University.
 
